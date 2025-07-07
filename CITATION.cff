@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Mapping Latent Neural Dynamics Using Recursive Informational Curvature: A Benchmark Across ECoG and EEG"
+authors:
+  - family-names: Asadi Anar
+    given-names: Mahsa
+  - family-names: Sadat Rafiei
+    given-names: Seyed Kiarash
+date-released: 2025-05-27
+doi: 10.17605/OSF.IO/V6DMW
+url: https://doi.org/10.17605/OSF.IO/V6DMW
+version: "1.0"
+message: "If you use this code, please cite the OSF preprint."
